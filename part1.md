@@ -2,6 +2,8 @@
 
 ## https://youtu.be/l4xOQiR04AQ
 
+## playlist => https://www.youtube.com/playlist?list=PLJDteW87i8Gpjngd2q6_doSl7AnIDM8Kg
+
 > Source: Lecture transcription (Part 1 of course series)
 > Topics covered: Course introduction & structure, Ethical Hacking definition, Types of Hackers (White/Black/Grey Hat), Introduction to Computer Networking
 
