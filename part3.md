@@ -42,7 +42,6 @@
 
 ## 1. Course Announcements
 
-- The channel ("NewVersionHacker") was approaching **100 subscribers**, and the instructor thanked the audience for their support.
 - **Major announcement:** The instructor plans to make a **complete, free cyber security and digital forensics course** available on the channel, specifically to support learners who cannot afford paid courses, so they can still build their careers in this field.
 - Standard call-to-action: subscribe, comment, like, and enable notifications ("bell icon") — engagement helps the instructor gauge interest and stay motivated to continue the series.
 
