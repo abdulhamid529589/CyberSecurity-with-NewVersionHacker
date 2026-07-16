@@ -1,14 +1,7 @@
 # Networking Fundamentals: The OSI Model (Open System Interconnection Model)
 
-> **Source:** "New Version Hacker" channel — Ethical Hacking / Cybersecurity Series
 > **Topic:** The OSI Model — All 7 Layers Explained in Detail (Sender-side and Receiver-side)
 > **Series Context:** This video follows an earlier video on "Services" (what services are, their purposes, and where they operate). The instructor recommends watching that video first, since this series builds step by step. The next video in the series covers the **TCP/IP Model**.
-
----
-
-## ⚠️ Disclaimer
-
-This channel's cybersecurity and ethical hacking content is intended **strictly for educational purposes**. It does not endorse illegal or malicious activity. Viewers are responsible for using this knowledge lawfully and ethically, and must obtain **proper authorization** before testing or implementing any technique discussed. The creators are not liable for any misuse.
 
 ---
 
